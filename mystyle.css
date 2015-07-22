@@ -1,0 +1,16 @@
+h1 {
+color: red;	
+text-align: center;
+}
+body {
+	background-color: beige;
+	color: black;
+}
+p {
+	font: cursive;
+	text-align: center;
+}
+
+ul {
+	list-style-type: square;
+}
